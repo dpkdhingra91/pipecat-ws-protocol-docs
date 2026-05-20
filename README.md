@@ -194,6 +194,11 @@ If you're implementing this in another language, those four are the source of tr
 
 See [`voice-agent-qa`](https://github.com/dpkdhingra91/voice-agent-qa) for a complete, tested Python client implementing this protocol. ~300 lines, MIT, no `torch` / `transformers` / `onnxruntime`.
 
+## Related projects
+
+- 🎯 [`pipecat-sarvam-azure-starter`](https://github.com/dpkdhingra91/pipecat-sarvam-azure-starter) — a complete Pipecat server (Sarvam STT + Azure OpenAI + Sarvam TTS) that speaks the protocol documented here.
+- 🐍 [`voice-agent-qa`](https://github.com/dpkdhingra91/voice-agent-qa) — Python client that implements this protocol; useful as a working reference if you're porting to another language.
+
 ## License
 
 This documentation is licensed CC0 — public domain. Copy, paste, translate, mirror, embed, change, do whatever.
