@@ -202,3 +202,7 @@ See [`voice-agent-qa`](https://github.com/dpkdhingra91/voice-agent-qa) for a com
 ## License
 
 This documentation is licensed CC0 — public domain. Copy, paste, translate, mirror, embed, change, do whatever.
+
+---
+
+*Extracted from the production voice stack of [AI Interview Agents](https://www.aiinterviewagents.com) — an AI voice interviewer that runs real two-way spoken interviews and screens candidates at scale.*
